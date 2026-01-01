@@ -1,4 +1,4 @@
-# Descrición
+# Descripción
 # IA Avanzada Simple Navigation
 ### Cambios en el proyecto
 
